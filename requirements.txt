@@ -1,0 +1,10 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==3.14.0
+
+# OPTIONAL (but recommended for assignment clarity)
+pytz==2023.3
+sqlparse==0.4.4
+
+# If you ever use environment variables
+python-dotenv==1.0.1

@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# SQLite DB
+db.sqlite3
+
+# OS junk
+.DS_Store
+
+# IDE folders
+.idea/
+.vscode/
+
+# FRONTEND IGNORE
+task-priority-frontend/node_modules/
+task-priority-frontend/build/
+task-priority-frontend/.env*
+task-priority-frontend/coverage/
+task-priority-frontend/.DS_Store
+
